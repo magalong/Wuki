@@ -6,7 +6,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        bmi: resolve(__dirname, 'public/Category/Calculator/BMI.html'),
+        bmi: resolve(__dirname, 'html/Category/Calculator/BMI.html'),
       }
     }
   }

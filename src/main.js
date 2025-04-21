@@ -33,7 +33,7 @@ function SetupMenu()
   var BMI = document.createElement('div');
   BMI.innerHTML = 
   `
-    <a href = "/Category/Calculator/BMI.html"> BMI Calculator </a>
+    <a href = "html/Category/Calculator/BMI.html"> BMI Calculator </a>
   `
   root.appendChild(BMI);
 
